@@ -1,9 +1,9 @@
 # 🖥️ Server Performance Stats
 
-Script untuk menampilkan statistik performa server Linux (CPU, RAM, Disk, proses, dan lainnya).
+A script to display Linux server performance statistics (CPU, RAM, Disk, processes, and more).
 
 ## 🔗 Project URL
-[https://github.com/ArielSihombing/DevOps-Project](https://github.com/ArielSihombing/DevOps-Project)
+https://roadmap.sh/projects/server-stats
 
 ## ⚙️ Cara Menjalankan
 ```bash
