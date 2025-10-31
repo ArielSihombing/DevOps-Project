@@ -1,9 +1,13 @@
-HEAD
-# DevOps-Project
-Project ideas to take you from beginner to advanced in DevOps
+# 🧰 DevOps-Project
+Project ideas to take you from beginner to advanced in DevOps.
 
-# Server Peformance Stats
-How to Run
+---
+
+## 📊 Server Performance Stats
+
+A simple Bash script to display basic Linux server performance statistics such as CPU, RAM, Disk usage, and top processes.
+
+### 🚀 How to Run
+```bash
 chmod +x server-stats.sh
 ./server-stats.sh
-c3e8052 (Initial commit: add server peformance stats script)
