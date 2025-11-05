@@ -5,7 +5,7 @@ A script to display Linux server performance statistics (CPU, RAM, Disk, process
 ## 🔗 Project URL
 https://roadmap.sh/projects/server-stats
 
-## ⚙️ Cara Menjalankan
+## ⚙️ How To Run
 ```bash
 chmod +x server-stats.sh
 ./server-stats.sh
