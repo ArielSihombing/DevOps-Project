@@ -1,13 +1,13 @@
 # 🧰 Log Archive Tool
 
-This project is a simple automation tool for compressing and archiving system log files in Linux using Python.  
+This project is a simple automation tool for compressing and archiving system log files in Linux using Python.
 It helps organize and clean up log directories by automatically creating compressed archives.
 
 ---
 
 ## 🚀 How It Works
-- Scans the `/var/log` directory (or any directory you specify).  
-- Compresses `.log` files into a `.tar.gz` archive.  
+- Scans the `/var/log` directory (or any directory you specify).
+- Compresses `.log` files into a `.tar.gz` archive. 
 - Moves the archive to a target backup folder.
 
 ---
